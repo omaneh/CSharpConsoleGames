@@ -45,8 +45,17 @@ namespace HuntingTheManticore
 
             }
 
-            Console.WriteLine("You win. Click any button to exit");
-            Console.ReadKey(true);
+            if (cityScore > manticoreScore)
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("You win! Click any button to exit");
+                Console.ReadKey(true);
+            }
+            else
+            {
+                Console.WriteLine("You lost. Click any button to exit");
+                Console.ReadKey(true);
+            }
 
         }
         public static string ResultOfRound(int playerInput, int actualDistance)
