@@ -13,12 +13,18 @@ class Program
             Console.WriteLine("What number would you like to switch the 0 with?");
             int userAnswer = int.Parse(Console.ReadLine());
             newRound.FindLocation(userAnswer);
-            newRound.SwapPositions(0, userAnswer);
-
-            if(newRound.GameOver())
+            if (newRound.PossibleMove())
             {
-                Console.WriteLine("Congratulations, you have won the game!");
-                break;
+                newRound.SwapPositions(0, userAnswer);
+
+                if (newRound.GameOver())
+                {
+                    Console.WriteLine("Congratulations, you have won the game!");
+                    break;
+                }
+            } else
+            {
+                Console.WriteLine("Not a valid move. You can only move either to your left or right or up and down. Please try again.");
             }
         }
 
@@ -36,35 +42,51 @@ class PuzzleGame
 
 
 
-    //index is out of bounds
+
     internal void DisplayCurrentBoard()
     {
-        for(int i=0; i<4; i++)
+        for (int i = 0; i < 4; i++)
         {
-            for(int j=0; j<4; j++)
+            for (int j = 0; j < 4; j++)
             {
-                Console.Write("["+ _currentBoard[i, j] +"]"+ " ");
+                Console.Write("[" + _currentBoard[i, j] + "]" + " ");
             }
             Console.WriteLine();
         }
 
-      
+
     }
     public void FindLocation(int userInput)
     {
-       for(int i = 0; i < 4; i++)
+        for (int i = 0; i < 4; i++)
         {
-            for (int j=0; j <4; j++)
+            for (int j = 0; j < 4; j++)
             {
-               if (_currentBoard[i, j] == userInput)
+                if (_currentBoard[i, j] == userInput)
                 {
                     _movingNumberLocationOuter = i;
                     _movingNumberLocationInner = j;
                 }
             }
         }
-        
+
+    }
+
+    public bool PossibleMove()
+    {
+        int possibleHorizontalMoveUp = _zeroLocationOutter + 1;
+        int possibleVerticalMoveUp = _zeroLocationInner + 1;
+        int possibleHorizontalMoveDown = _zeroLocationOutter - 1;
+        int possibleVerticalMoveDown = _zeroLocationInner - 1;
+        if (possibleHorizontalMoveUp == _movingNumberLocationOuter || possibleVerticalMoveUp == _movingNumberLocationOuter || possibleHorizontalMoveDown == _movingNumberLocationInner || possibleVerticalMoveDown == _movingNumberLocationInner)
+        {
+            return true;
         }
+        else
+        {
+            return false;
+        }
+    }
 
     public void SwapPositions(int oldValue, int newValue)
     {
