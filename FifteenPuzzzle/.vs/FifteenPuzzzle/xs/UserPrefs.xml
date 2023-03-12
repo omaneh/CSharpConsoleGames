@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2E25E0A8-63E5-4458-8EEA-668075C2310D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FifteenPuzzzle/Program.cs">
+    <Files>
+      <File FileName="FifteenPuzzzle/Program.cs" Line="19" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FifteenPuzzzle" expanded="True">
+            <Node name="FifteenPuzzzle" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FifteenPuzzzle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

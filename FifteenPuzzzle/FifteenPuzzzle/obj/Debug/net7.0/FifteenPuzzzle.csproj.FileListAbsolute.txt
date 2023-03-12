@@ -1,0 +1,15 @@
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/bin/Debug/net7.0/FifteenPuzzzle
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/bin/Debug/net7.0/FifteenPuzzzle.deps.json
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/bin/Debug/net7.0/FifteenPuzzzle.runtimeconfig.json
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/bin/Debug/net7.0/FifteenPuzzzle.dll
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/bin/Debug/net7.0/FifteenPuzzzle.pdb
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.csproj.AssemblyReference.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.AssemblyInfoInputs.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.AssemblyInfo.cs
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.csproj.CoreCompileInputs.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.dll
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/refint/FifteenPuzzzle.dll
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.pdb
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/FifteenPuzzzle.genruntimeconfig.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/FifteenPuzzzle/FifteenPuzzzle/obj/Debug/net7.0/ref/FifteenPuzzzle.dll
