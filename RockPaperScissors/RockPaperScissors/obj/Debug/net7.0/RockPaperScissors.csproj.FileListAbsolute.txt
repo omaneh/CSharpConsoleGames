@@ -1,0 +1,15 @@
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.csproj.AssemblyReference.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.AssemblyInfo.cs
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.deps.json
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.runtimeconfig.json
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.dll
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/bin/Debug/net7.0/RockPaperScissors.pdb
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.dll
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/refint/RockPaperScissors.dll
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.pdb
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/RockPaperScissors.genruntimeconfig.cache
+/Users/habsoomane/Projects/CSharpConsoleGames/RockPaperScissors/RockPaperScissors/obj/Debug/net7.0/ref/RockPaperScissors.dll
